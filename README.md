@@ -7,7 +7,7 @@ Sophomore Software Engineering student building a career at the intersection of 
 ## 💫 About Me:
 
 - 🚀 **Currently Focused On:** Finishing my Google Cybersecurity Professional Certificate modules and mapping threat landscapes.
-- 🎓 **Education:** Pursuing a BS in Software Engineering at the University of Sargodha (CGPA: 3.63/4.00).
+- 🎓 **Education:** Pursuing a BS in Software Engineering at the University of Sargodha (CGPA:  3.71/4.00).
 - 🛡️ **Vibe:** Approaching development with a security-first mindset—analyzing how code breaks to understand how to defend it.
 
 ---
