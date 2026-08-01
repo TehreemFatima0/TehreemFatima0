@@ -48,6 +48,12 @@ Feel free to check out my open-source code repositories, read through my securit
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NIST](https://img.shields.io/badge/NIST-Framework-blue?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/Shodan-%23C1121F.svg?style=for-the-badge&logo=shodan&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-%233949AB.svg?style=for-the-badge&logo=virustotal&logoColor=white)
+![Censys](https://img.shields.io/badge/Censys-%23000000.svg?style=for-the-badge&logo=censys&logoColor=white)
+![SecurityTrails](https://img.shields.io/badge/SecurityTrails-%23051C2C.svg?style=for-the-badge&logo=securitytrails&logoColor=white)
+![Archive.org](https://img.shields.io/badge/Wayback_Machine-%23000000.svg?style=for-the-badge&logo=internetarchive&logoColor=white)
+![crt.sh](https://img.shields.io/badge/crt.sh-%2328A745.svg?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ### Design & Tooling
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
