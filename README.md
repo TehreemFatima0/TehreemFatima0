@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Tehreem Fatima
 
-Sophomore Software Engineering student building a career at the intersection of robust web development and proactive cybersecurity. Currently expanding my practical threat analysis skills as a Threat Intelligence Intern at The Arzens.
+Junior Year Software Engineering student building a career at the intersection of robust web development and proactive cybersecurity. Currently expanding my practical threat analysis skills as a Threat Intelligence Intern at The ARZENS.
 
 ---
 
