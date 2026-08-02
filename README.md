@@ -6,26 +6,28 @@ Junior Year Software Engineering student building a career at the intersection o
 
 ## 💫 About Me:
 
-- 🚀 **Currently Focused On:** Finishing my Google Cybersecurity Professional Certificate modules and mapping threat landscapes.
-- 🎓 **Education:** Pursuing a BS in Software Engineering at the University of Sargodha (CGPA:  3.71/4.00).
-- 🛡️ **Vibe:** Approaching development with a security-first mindset—analyzing how code breaks to understand how to defend it.
+- 🚀 **Currently Focused On:** Mapping threat landscapes, publishing hands-on security writeups, and finishing my Google Cybersecurity Professional Certificate modules.
+- 🎓 **Education:** Pursuing a BS in Software Engineering at the University of Sargodha (CGPA: 3.71/4.00).
+- ✍️ **Blogging:** Documenting my cybersecurity learning journey and technical breakdowns on Medium.
 
 ---
 
 ## 🌱 Currently Learning:
 
-- Advanced network analysis and traffic monitoring using **Wireshark**.
-- Implementing enterprise security standards utilizing the **NIST Framework**.
-- Automation workflows using **Python** and system configuration in **Linux**.
+- **CTI & OSINT Research:** Deep-diving into threat intelligence frameworks, active/passive reconnaissance, and real-world exploit mechanics.
+- **Web Development Bootcamp:** Sharpening modern web engineering skills through the WPBrigade x iCodeGuru Bootcamp.
+- **Cybersecurity & Medium Writeups:** Breaking down technical modules, lab walkthroughs, and security concepts into public writeups.
+- **Machine Learning:** Setting aside daily dedicated time to study ML fundamentals and its applications in threat detection.
+- **Network Analysis & Governance:** Traffic monitoring using Wireshark, Python automation, Linux admin, and NIST Framework implementation.
 
 ---
 
 ## 🌐 Connect with Me:
 
-Feel free to check out my open-source code repositories, read through my security auditing progress, or reach out to chat about tech!
+Feel free to check out my open-source code repositories, read through my technical writeups, or reach out to chat about tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tehreem-fatima001)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tehreemm)
 
 ---
 
