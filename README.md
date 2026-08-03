@@ -1,18 +1,14 @@
-# 👋 Hi there! I'm Tehreem Fatima
+# Hi there! I'm Tehreem Fatima
 
 Junior Year Software Engineering student building a career at the intersection of robust web development and proactive cybersecurity. Currently expanding my practical threat analysis skills as a Threat Intelligence Intern at The ARZENS.
 
----
+## About Me:
 
-## 💫 About Me:
+-  **Currently Focused On:** Mapping threat landscapes, publishing hands-on security writeups, and finishing my Google Cybersecurity Professional Certificate modules.
+- **Education:** Pursuing a BS in Software Engineering at the University of Sargodha (CGPA: 3.71/4.00).
+-  **Blogging:** Documenting my cybersecurity learning journey and technical breakdowns on Medium.
 
-- 🚀 **Currently Focused On:** Mapping threat landscapes, publishing hands-on security writeups, and finishing my Google Cybersecurity Professional Certificate modules.
-- 🎓 **Education:** Pursuing a BS in Software Engineering at the University of Sargodha (CGPA: 3.71/4.00).
-- ✍️ **Blogging:** Documenting my cybersecurity learning journey and technical breakdowns on Medium.
-
----
-
-## 🌱 Currently Learning:
+##  Currently Learning:
 
 - **CTI & OSINT Research:** Deep-diving into threat intelligence frameworks, active/passive reconnaissance, and real-world exploit mechanics.
 - **Web Development Bootcamp:** Sharpening modern web engineering skills through the WPBrigade x iCodeGuru Bootcamp.
@@ -20,18 +16,14 @@ Junior Year Software Engineering student building a career at the intersection o
 - **Machine Learning:** Setting aside daily dedicated time to study ML fundamentals and its applications in threat detection.
 - **Network Analysis & Governance:** Traffic monitoring using Wireshark, Python automation, Linux admin, and NIST Framework implementation.
 
----
-
-## 🌐 Connect with Me:
+##  Connect with Me:
 
 Feel free to check out my open-source code repositories, read through my technical writeups, or reach out to chat about tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tehreem-fatima001)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tehreemm)
 
----
-
-## 💻 Tech Stack:
+##  Tech Stack:
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -63,8 +55,6 @@ Feel free to check out my open-source code repositories, read through my technic
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 ![Tehreem's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TehreemFatima0&show_icons=true&theme=dark&hide_border=true)
