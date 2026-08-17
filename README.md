@@ -55,6 +55,4 @@ Feel free to check out my open-source code repositories, read through my technic
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TehreemFatima0/TehreemFatima0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
