@@ -55,11 +55,4 @@ Feel free to check out my open-source code repositories, read through my technic
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TehreemFatima0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="150" alt="Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TehreemFatima0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" height="150" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TehreemFatima0&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=e0af68&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-</div>
