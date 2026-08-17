@@ -55,4 +55,12 @@ Feel free to check out my open-source code repositories, read through my technic
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TehreemFatima0&theme=darkhub&no-frame=true&no-bg=false&margin_w=4" alt="GitHub Trophies" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TehreemFatima0&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=e0af68&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+</div>
