@@ -11,10 +11,8 @@ Junior Year Software Engineering student building a career at the intersection o
 ##  Currently Learning:
 
 - **CTI & OSINT Research:** Deep-diving into threat intelligence frameworks, active/passive reconnaissance, and real-world exploit mechanics.
-- **Web Development Bootcamp:** Sharpening modern web engineering skills through the WPBrigade x iCodeGuru Bootcamp.
 - **Cybersecurity & Medium Writeups:** Breaking down technical modules, lab walkthroughs, and security concepts into public writeups.
-- **Machine Learning:** Setting aside daily dedicated time to study ML fundamentals and its applications in threat detection.
-- **Network Analysis & Governance:** Traffic monitoring using Wireshark, Python automation, Linux admin, and NIST Framework implementation.
+- **Machine Learning:** Setting aside daily dedicated time to study ML fundamentals.
 
 ##  Connect with Me:
 
